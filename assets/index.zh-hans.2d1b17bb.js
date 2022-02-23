@@ -77,7 +77,7 @@ $$
 
 \u56FE\u8868\u7531 [mermaid](https://mermaid-js.github.io/mermaid/#/)\u9A71\u52A8\u3002
 
-\u4F60\u53EF\u4EE5\u8F93\u5165 _\\\`\\\`\\\`mermaid_ \u6765\u6DFB\u52A0\u56FE\u8868\u3002
+\u4F60\u53EF\u4EE5\u8F93\u5165 \` \`\`\`mermaid \` \u6765\u6DFB\u52A0\u56FE\u8868\u3002
 
 \`\`\`mermaid
 graph TD;
